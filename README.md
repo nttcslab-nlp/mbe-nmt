@@ -34,8 +34,9 @@ $ pip install --editable .
 
 
 ## Training
-The training scripts are available in `./en-ja/`
+The training scripts are available in `./en-ja/`.
 You may need to change the `PROJECT_DIR` variable in the scripts.
+
 This is an example of training a MBE enc model.
 ```bash
 $ cd ./en-ja
@@ -46,6 +47,6 @@ $ nohup train_model_mbe_enc.sh 1 &> train_model_mbe_enc.log &
 ## Contact
 Please send an issue on GitHub or contact us by email.
 
-NTT Communication Science Laboratories
-Makoto Morishita
-makoto.morishita.gr -a- hco.ntt.co.jp
+NTT Communication Science Laboratories  
+Makoto Morishita  
+makoto.morishita.gr -a- hco.ntt.co.jp  
