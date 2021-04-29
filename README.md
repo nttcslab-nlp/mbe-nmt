@@ -1,6 +1,6 @@
-# An example implementation of NMT with the mini-batch embedding
+# Context-aware Neural Machine Translation with Mini-batch Embedding
 
-This respository includes the example scripts of the following paper:
+This respository includes the example scripts of [the following paper](https://www.aclweb.org/anthology/2021.eacl-main.214/):
 ```
 Context-aware Neural Machine Translation with Mini-batch Embedding
 Makoto Morishita, Jun Suzuki, Tomoharu Iwata, Masaaki Nagata
